@@ -1,0 +1,74 @@
+.button {
+    -fx-background-color: #008ec6;
+    -fx-border-radius: 0;
+    -fx-background-radius: 20px;
+    -fx-text-fill: white;
+}
+
+#Todo{
+    -fx-fill: white;
+}
+
+#pane1{
+    -fx-background-color: #222222;
+}
+
+#panegrid4{
+    -fx-background-color: #222222;
+}
+
+.scroll-pane{
+    -fx-background-color: #222222;
+
+}
+
+.gridpane .pane{
+    -fx-background-color: #008ec6;
+}
+
+.list-view{
+    -fx-background-radius: 20px;
+    -fx-background-color: #008ec6;
+}
+
+.list-view .cell{
+    -fx-background-radius: 20px;
+    -fx-background-color: null;
+    -fx-padding: 10px 10px 10px 10px;
+    -fx-alignment: center;
+}
+.list-view .cell:selected{
+    -fx-background-color: #222222;
+
+}
+
+.table-view{
+    -fx-background: #222222;
+}
+
+.table-view .cell{
+    -fx-background-color: #008ec6;
+}
+
+.table-view .cell-row:selected{
+    -fx-background-color: #222222;
+}
+
+
+.table-view .column-header {
+    -fx-background-color: #005678;
+    -fx-background-radius: 20px;
+}
+
+.check-box .box{
+    -fx-background-color: #008ec6;
+
+}
+
+.check-box:selected .mark{
+    -fx-background-color: white;
+}
+
+.check-box:selected .box{
+    -fx-background-color: #008ec6;
+}
