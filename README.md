@@ -1,4 +1,4 @@
-# Projeto-TodoApp
+<h1 align="center">Projeto-TodoApp</h1>
 
 ### Descrição
 
